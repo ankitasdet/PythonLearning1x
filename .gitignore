@@ -1,0 +1,4 @@
+#Directories to ignore
+Notes
+.idea
+venv
